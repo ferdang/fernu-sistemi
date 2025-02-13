@@ -50,9 +50,9 @@ nav:
   - Home: index.md
   - Code Docs: 
     - Java: coding/java.md
-  - About:
-    - Su di me: about/about.md
-    - sperimentazione: about/capiamo.md
+  - Chi:
+    - Io Fernu: about/about.md
+    - VXV: about/capiamo.md
   - Tags: tags.md
   - Blog:
     - blog: blog/index.md
