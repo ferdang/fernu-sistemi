@@ -1,16 +1,10 @@
 ---
 tags:
-  - scimmie
-  - capiamo
-  - uh
+  - VxV
+  - San Leucio del Sannio
 ---
 
-# CAPIAMO
+# CHI È VXV?
+VxV (vì per vì) è uno spazio di persone, creativu e aspiranti artistu costantemente alla ricerca di sé e prima ancora amicu, ragazzu con personalità diverse, ma con una necessità comune.
 
-Il capiamo è un fatto da scimmia, creato dalle scrimmie e fatto per le scimmie. 
-
-## l'undicesima scimmia
-uh ah ah ah
-
-## le sbustoscimmie
-qua so popo cadute
+E prima e prima ancora Yvonne, Fernanda, Vincenzo, Antonella, Matteo, Benedetta, Andrea e Quintilio.
